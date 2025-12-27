@@ -7,7 +7,6 @@ Task Manager App is a simple application that helps users manage their daily tas
 - Add tasks
 - Update tasks
 - Delete tasks
-- Track task progress
 
 ## Technologies
 - Git
