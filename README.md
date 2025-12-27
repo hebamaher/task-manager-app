@@ -4,9 +4,9 @@
 Task Manager App is a simple application that helps users manage their daily tasks efficiently.
 
 ## Features
-- Add tasks
-- Update tasks
-- Delete tasks
+- Create tasks
+- Edit tasks
+- Remove tasks
 - Track task progress
 
 ## Technologies
